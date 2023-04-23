@@ -2,7 +2,7 @@
 > **NOTE:** *This project is an EDA for a dataset provided by SAS.*
 
 ## What is the purpose of this project? 
-This dataset was apart of a Courseara course that allows you to do real-world analysis on TSA claims while providing a follow-along analysis. I however, did not follow-along with the case-study solutions provided by SAS as I wanted to see if I could properly analyze the dataset myself. I use SAS Studio for work, but I primarily use PROC SQL. SO even though I use SAS on a daily basis, I do not use BASE SAS. So this was a challenge for me still.
+This dataset was apart of a Courseara course that allows you to do real-world analysis on TSA claims while providing a follow-along analysis. I however, did not follow-along with the case-study solutions provided by SAS as I wanted to see if I could properly analyze the dataset myself. 
 
 ## Where did the dataset come from?
 The dataset is provided by SAS as a CSV file named TSA Claims 2002 to 2017. This file was created from publicly available data from the TSA and the Federal Aviation Administration, or FAA. The TSA data has information about claims and the FAA data has information about USA airport facilities. The case study data was prepared & simplified by SAS by concatenating individual TSA airport claims data, removing some extra columns, and then joining the concatenated TSA claims data with the FAA airport facilities data, this was to make it customized to the SAS Coursera Case Study specific questions. The TSA Claims 2002 to 2017 CSV file has 14 columns and over 220,000 rows. 
